@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Foam's Blog
+subtitle: '记录技术与生活'
+description: '个人技术博客'
 keywords:
-author: foam shadow
+author: foamshadow
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://foampray.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
